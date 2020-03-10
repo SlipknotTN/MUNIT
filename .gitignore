@@ -1,4 +1,7 @@
+datasets/
+!datasets/demo_edges2handbags
 outputs/
+models/
 src/models/
 data/
 logs/
